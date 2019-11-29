@@ -1,7 +1,7 @@
 # safe-path
 Find safe (less accident-prone) path from a source to destination
 
-# Add new plots (go objects)
+# Add new plots (plotly graph objects)
 
 Add them in https://github.com/sumanth232/safe-path/blob/master/mysite/safepath/plots.py
 
